@@ -81,6 +81,16 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-account',
+          title: 'List users',
+          to: '/users',
+        },
+        {
+          icon: 'mdi-folder',
+          title: 'Wilayas',
+          to: '/wilayas',
+        },
       ],
       miniVariant: false,
       right: true,
